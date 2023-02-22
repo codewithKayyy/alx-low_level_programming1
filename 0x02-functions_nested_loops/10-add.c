@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int - adds two numbers
+ * add - adds two numbers
  *
  * @a: parameter 1
  *
